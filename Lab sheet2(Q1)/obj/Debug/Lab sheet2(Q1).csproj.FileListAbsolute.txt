@@ -1,0 +1,7 @@
+D:\Documents\NSBM\1 year\3 Semester\C# lab\lab sheet 2\Lab sheet2(Q1)\bin\Debug\Lab sheet2(Q1).exe.config
+D:\Documents\NSBM\1 year\3 Semester\C# lab\lab sheet 2\Lab sheet2(Q1)\bin\Debug\Lab sheet2(Q1).exe
+D:\Documents\NSBM\1 year\3 Semester\C# lab\lab sheet 2\Lab sheet2(Q1)\bin\Debug\Lab sheet2(Q1).pdb
+D:\Documents\NSBM\1 year\3 Semester\C# lab\lab sheet 2\Lab sheet2(Q1)\obj\Debug\Lab sheet2(Q1).csproj.AssemblyReference.cache
+D:\Documents\NSBM\1 year\3 Semester\C# lab\lab sheet 2\Lab sheet2(Q1)\obj\Debug\Lab sheet2(Q1).csproj.CoreCompileInputs.cache
+D:\Documents\NSBM\1 year\3 Semester\C# lab\lab sheet 2\Lab sheet2(Q1)\obj\Debug\Lab sheet2(Q1).exe
+D:\Documents\NSBM\1 year\3 Semester\C# lab\lab sheet 2\Lab sheet2(Q1)\obj\Debug\Lab sheet2(Q1).pdb
