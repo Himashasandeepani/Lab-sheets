@@ -6,16 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab__sheet3_Q2_
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-
-    namespace Lab_sheet_03_Q2
-    {
-
-        public class Employee
+       public class Employee
         {
             protected int employeeID;
             private string FullName;
@@ -56,5 +47,4 @@ namespace Lab__sheet3_Q2_
             }
         }
     }
-
 }
