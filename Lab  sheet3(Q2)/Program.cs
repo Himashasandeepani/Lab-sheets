@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab__sheet3_Q2_
+namespace Lab_sheet3_Q2_
 {
        public class Employee
         {
