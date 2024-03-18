@@ -6,14 +6,6 @@ using System.Threading.Tasks;
 
 namespace Lab_sheet3_Q3_
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-
-    namespace Lab_sheet_03_Q3
-    {
         public class Product
         {
             private int productID;
@@ -72,5 +64,4 @@ namespace Lab_sheet3_Q3_
             }
         }
     }
-
 }
